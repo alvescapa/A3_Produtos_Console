@@ -4,13 +4,6 @@ using System.Collections.Generic;
 /// <summary>
 /// Clase produto
 /// </summary>
-class Produto
-{
-    public int Id;
-    public string Nome;
-    public double Preco;
-}
-
 /// <summary>
 /// MAIN
 /// </summary>
